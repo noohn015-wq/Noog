@@ -1,0 +1,1 @@
+export type { TranslationKeys } from "@/lib/i18n";
